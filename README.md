@@ -32,18 +32,8 @@ It talks to the X server directly through **Xlib** and the **XRandR extension**.
 
 ## Preview
 
-An illustrative layout of the interface (not a literal screenshot):
+![XRTUIPRV](xrtui_)
 
-```
-  Output      Active      Primary     Resolution  Refresh     X Position  Y Position
-  eDP-1       True        True        1920x1080   60.01       0           0
-  *HDMI-1     True        False       2560x1440   59.95       1920        0
-  DP-2        False       False       0x0         0.00        0           0
-
-h(left/exit), j(down), k(up), l(right/select/enter) move | x delete | q quit | s sync monitors | r reload
-```
-
-A `*` in front of an output name means it has changes waiting to be applied.
 
 ## Requirements
 
