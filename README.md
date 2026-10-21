@@ -32,7 +32,7 @@ It talks to the X server directly through **Xlib** and the **XRandR extension**.
 
 ## Preview
 
-![XRTUIPRV](xrtui_)
+![XRTUIPRV](docs/preview.png)
 
 
 ## Requirements
