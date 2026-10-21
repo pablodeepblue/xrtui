@@ -68,7 +68,7 @@ This produces an `xrtui` binary in the project root.
 To install it system-wide:
 
 ```sh
-sudo install -m 755 xrtui /usr/local/bin/xrtui
+make install -m 755 xrtui /usr/local/bin/xrtui
 ```
 
 ## Usage
