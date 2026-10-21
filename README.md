@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/pablodeepblue/xrtui/actions/workflows/build.yml"><img alt="Build status" src="https://github.com/pablodeepblue/xrtui/actions/workflows/build.yml/badge.svg"></a>
   <img alt="language: C11" src="https://img.shields.io/badge/language-C11-blue">
   <img alt="platform: X11" src="https://img.shields.io/badge/platform-X11-orange">
   <img alt="license: GPL-2.0" src="https://img.shields.io/badge/license-GPL--2.0-green">
